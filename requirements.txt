@@ -9,4 +9,4 @@ oauthlib==2.1.0
 pytz==2018.5
 requests==2.19.1
 shortuuid==0.5.0
-urllib3==1.23
+urllib3==1.26.5
